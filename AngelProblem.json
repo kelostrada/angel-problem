@@ -277,6 +277,681 @@
         "name": "NewObject-16.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "angel-f-001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "angel-f-001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Stand-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stand-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkUp-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkUp-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Stand-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stand-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Stand-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stand-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Stand-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Stand-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "chequer-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chequer-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-9-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-10-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-10-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-11-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-11-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-12-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-12-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-13-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-13-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-14-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-14-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-15-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-15-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Fire-16-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fire-16-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-2-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkLeft-3-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkLeft-3-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-2-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkRight-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkRight-3-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkUp-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkUp-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkUp-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkUp-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkUp-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkUp-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkDown-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkDown-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkDown-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkDown-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "WalkDown-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WalkDown-3.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -339,12 +1014,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 24,
+          "height": 64,
           "layer": "",
           "locked": false,
           "name": "Player",
           "persistentUuid": "849cb4fe-7462-464b-8940-4dd00a26b43b",
-          "width": 24,
+          "width": 64,
           "x": 0,
           "y": 0,
           "zOrder": 2,
@@ -361,8 +1036,8 @@
           "name": "bg",
           "persistentUuid": "07e44588-5873-4068-9fca-bff2dbe2c9c5",
           "width": 100000,
-          "x": -50015,
-          "y": -50015,
+          "x": -50045,
+          "y": -50044,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -403,12 +1078,12 @@
       ],
       "objects": [
         {
-          "height": 24,
+          "height": 64,
           "name": "bg",
           "tags": "",
-          "texture": "chequer-1.png",
+          "texture": "chequer-1-1.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 24,
+          "width": 64,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -423,7 +1098,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Stand",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -432,7 +1107,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Elisa_standing.png",
+                      "image": "Stand-1-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -465,6 +1140,258 @@
                           }
                         ]
                       ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "WalkLeft",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkLeft-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkLeft-2-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkLeft-3-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "WalkRight",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkRight-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkRight-2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkRight-3-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "WalkUp",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkUp-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkUp-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkUp-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "WalkDown",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkDown-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkDown-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "WalkDown-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -511,7 +1438,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-1-4.png",
+                      "image": "Fire-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -528,7 +1455,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-2-0.png",
+                      "image": "Fire-2-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -545,7 +1472,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-3.png",
+                      "image": "Fire-3-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -562,7 +1489,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-4.png",
+                      "image": "Fire-4-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -579,7 +1506,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-5.png",
+                      "image": "Fire-5-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -596,7 +1523,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-6.png",
+                      "image": "Fire-6-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -613,7 +1540,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-7.png",
+                      "image": "Fire-7-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -630,7 +1557,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-8.png",
+                      "image": "Fire-8-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -647,7 +1574,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-9.png",
+                      "image": "Fire-9-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -664,7 +1591,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-10.png",
+                      "image": "Fire-10-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -681,7 +1608,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-11.png",
+                      "image": "Fire-11-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -698,7 +1625,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-12.png",
+                      "image": "Fire-12-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -715,7 +1642,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-13.png",
+                      "image": "Fire-13-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -732,7 +1659,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-14.png",
+                      "image": "Fire-14-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -749,7 +1676,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-15.png",
+                      "image": "Fire-15-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -766,7 +1693,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-16.png",
+                      "image": "Fire-16-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -872,7 +1799,7 @@
                   "parameters": [
                     "grid_size",
                     "=",
-                    "24"
+                    "64"
                   ],
                   "subInstructions": []
                 },
@@ -992,7 +1919,7 @@
                   "parameters": [
                     "zoom",
                     "=",
-                    "1.5"
+                    "1"
                   ],
                   "subInstructions": []
                 },
@@ -1067,6 +1994,17 @@
                     "dir_y",
                     "=",
                     "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"Stand\""
                   ],
                   "subInstructions": []
                 }
@@ -1450,7 +2388,7 @@
             },
             {
               "disabled": false,
-              "folded": true,
+              "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -1497,6 +2435,162 @@
                   },
                   "comment": "The X direction is non-zero, stop the player if reaches destination",
                   "comment2": ""
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "dir_x",
+                        "<",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"WalkLeft\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "dir_x",
+                        ">",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"WalkRight\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "dir_y",
+                        "<",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "dir_x",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"WalkUp\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "dir_y",
+                        ">",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "dir_x",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"WalkDown\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
                 },
                 {
                   "disabled": false,
